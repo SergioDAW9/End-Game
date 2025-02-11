@@ -1,12 +1,12 @@
 # End-Game ⚠️
 
-## 📖 Descripción
+## ☐ Descripción
 
 **End-Game** es una web diseñada para los usuario con experiencia de los aficionados a las apuestas deportivas. Con una interfaz intuitiva y responsiva, los usuarios pueden navegar cómodamente a través de las distintas categorías de eventos deportivos/easports. Este proyecto ha sido desarrollado como una página de presentación para el grado académico y no representa una plataforma de apuestas real.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## ☐ Tecnologías utilizadas
 
 El proyecto fue desarrollado utilizando las siguientes herramientas y tecnologías:
 
@@ -30,25 +30,22 @@ El proyecto fue desarrollado utilizando las siguientes herramientas y tecnologí
 
 ---
 
-## Instrucciones de instalación y uso
+## ☐ Instrucciones de instalación y uso
 
 ```
 git remote add origin https://github.com/SergioDAW9/End-Game.git
 git branch -M main
 git push -u origin main
 ```
-
 ---
 
-![(Creative Commons](https://img.shields.io/badge/license-creativecommons-lightgrey)
-![Desarollo](https://img.shields.io/badge/version-v0-blue)
-
----
-
-## Versiones
+## ☐ Versiones
 ```
 v0
 ```
 - En esta version se ha creado el diseño en la plataforma figma
 - Se han definido colores, furentes y los iconos
 - Se han diseñado las principales paginas de la web
+
+![(Creative Commons](https://img.shields.io/badge/license-creativecommons-lightgrey)
+![Desarollo](https://img.shields.io/badge/version-v0-blue)
