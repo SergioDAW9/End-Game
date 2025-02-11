@@ -1,12 +1,12 @@
 # End-Game ⚠️
 
-## ☐ Descripción
+## ◼ Descripción
 
 **End-Game** es una web diseñada para los usuario con experiencia de los aficionados a las apuestas deportivas. Con una interfaz intuitiva y responsiva, los usuarios pueden navegar cómodamente a través de las distintas categorías de eventos deportivos/easports. Este proyecto ha sido desarrollado como una página de presentación para el grado académico y no representa una plataforma de apuestas real.
 
 ---
 
-## ☐ Tecnologías utilizadas
+## ◼ Tecnologías utilizadas
 
 El proyecto fue desarrollado utilizando las siguientes herramientas y tecnologías:
 
@@ -30,7 +30,7 @@ El proyecto fue desarrollado utilizando las siguientes herramientas y tecnologí
 
 ---
 
-## ☐ Instrucciones de instalación y uso
+## ◼ Instrucciones de instalación y uso
 
 ```
 git remote add origin https://github.com/SergioDAW9/End-Game.git
@@ -39,7 +39,7 @@ git push -u origin main
 ```
 ---
 
-## ☐ Versiones
+## ◼ Versiones
 ```
 v0
 ```
