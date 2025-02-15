@@ -25,9 +25,6 @@ El proyecto fue desarrollado utilizando las siguientes herramientas y tecnologí
 - **Fuentes**:
   - [Google Fonts](https://fonts.google.com/)
   
-- **Otros**:
-  - [Imagenes/Informacion - ]()
-
 ---
 
 ## ◼ Instrucciones de instalación y uso
@@ -45,7 +42,9 @@ v0
 ```
 - En esta version se ha creado el diseño en la plataforma figma
 - Se han definido colores, furentes y los iconos
-- Se han diseñado las principales paginas de la web
+- Diseño pagina principal
+- Diseño de formularios, login/register
+- Maquetacion footer
 
 ![(Creative Commons](https://img.shields.io/badge/license-creativecommons-lightgrey)
 ![Desarollo](https://img.shields.io/badge/version-v0-blue)
