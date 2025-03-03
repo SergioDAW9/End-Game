@@ -46,5 +46,13 @@ v0
 - Diseño de formularios, login/register
 - Maquetacion footer
 
+```
+v1
+```
+- Optimización 
+- Se han definido variables
+- Diseño del resto de paginas
+- Animaciones
+
 ![(Creative Commons](https://img.shields.io/badge/license-creativecommons-lightgrey)
 ![Desarollo](https://img.shields.io/badge/version-v0-blue)
