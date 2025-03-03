@@ -16,6 +16,7 @@ El proyecto fue desarrollado utilizando las siguientes herramientas y tecnologí
 
 - **Frontend**:
   - HTML5
+  - Tailwind
   - CSS3
   
 - **Iconos**:
@@ -45,6 +46,14 @@ v0
 - Diseño pagina principal
 - Diseño de formularios, login/register
 - Maquetacion footer
+
+```
+v1
+```
+- Optimización 
+- Se han definido variables
+- Diseño del resto de paginas
+- Animaciones
 
 ![(Creative Commons](https://img.shields.io/badge/license-creativecommons-lightgrey)
 ![Desarollo](https://img.shields.io/badge/version-v0-blue)
