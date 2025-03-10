@@ -55,5 +55,12 @@ v1
 - Diseño del resto de paginas
 - Animaciones
 
+```
+v2
+```
+- Optimización 
+- Se corrigieron errores
+- Mejoras de accesibilidad
+
 ![(Creative Commons](https://img.shields.io/badge/license-creativecommons-lightgrey)
 ![Desarollo](https://img.shields.io/badge/version-v0-blue)
